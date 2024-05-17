@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f363416-b561-4e23-bc40-f54f3e091386" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/images/zakkuri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/zakkuri_festival/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/zakkuri_festival/index.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715930755998</updated>
-      <workItem from="1715930757425" duration="3621000" />
+      <workItem from="1715930757425" duration="4534000" />
     </task>
     <servers />
   </component>
